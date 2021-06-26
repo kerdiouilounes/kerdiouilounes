@@ -7,7 +7,7 @@
  - one for Delivery Companies, where each Delivery Company has its account where they can manage orders of users if they where selected by users in selecting a delivery method
  - and about 3 more apps related to this project (i want to keep them secret).
  ... this was a mini description on my current -onWorking- project that has been planned carefully and based on large research about the market needs.
-- 💞️ I’m looking to collaborate on a large company or a startup that has long term plan for developing E-commerce Apps and has the same point-vue as mine.
+- 💞️ I’m looking to collaborate with a large company or a startup that has long term plan for developing E-commerce Apps and has the same point-vue as mine.
 - 📫  i will be happy if you contact me in the following E-mail adresse : kerdiouimilounes@gmail.com
 
 <!---
